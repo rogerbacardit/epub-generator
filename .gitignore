@@ -1,1 +1,3 @@
 output
+stylesheets/*.css
+.sass-cache/
